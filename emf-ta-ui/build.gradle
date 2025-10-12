@@ -1,17 +1,17 @@
 dependencies {
-  compile project(":emf-ta")
+  implementation project(":emf-ta")
 
   // openflexo dep
-  compile flexoUi()
-  compile flexoOntology()
-  compile flexoOntologyUi()
-  runtime fmlTechnologyAdapterUi()
+  implementation flexoUi()
+  implementation flexoOntology()
+  implementation flexoOntologyUi()
+  runtimeOnly fmlTechnologyAdapterUi()
   // external dep
   // testing dep
-  testCompile flexoUiTest()
+  testImplementation flexoUiTest()
   
   // Test resource center
-  testRuntime project(':emf-ta-test-rc')
+  testRuntimeOnly project(':emf-ta-test-rc')
   
 }
 
