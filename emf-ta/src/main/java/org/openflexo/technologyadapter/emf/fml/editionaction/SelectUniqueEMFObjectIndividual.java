@@ -55,7 +55,8 @@ import org.openflexo.technologyadapter.emf.model.EMFObjectIndividual;
  * @author sylvain
  */
 @ModelEntity
-@ImplementationClass(SelectUniqueEMFObjectIndividual.AbstractSelectEMFObjectIndividualImpl.class)
+//TODO idf why use the subtype to look for the "impl".
+@ImplementationClass(AbstractSelectEMFObjectIndividual.AbstractSelectEMFObjectIndividualImpl.class)
 @XMLElement
 @FML("SelectUniqueEMFObject")
 public interface SelectUniqueEMFObjectIndividual
