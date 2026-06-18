@@ -44,6 +44,7 @@ import org.openflexo.technologyadapter.emf.rm.JarBasedMetaModelResource.EMFMetaM
  * @author sylvain
  *
  */
+@SuppressWarnings("rawtypes")
 public class EMFMetaModelResourceFactory
 		extends TechnologySpecificFlexoResourceFactory<EMFMetaModelResource, EMFMetaModel, EMFTechnologyAdapter> {
 

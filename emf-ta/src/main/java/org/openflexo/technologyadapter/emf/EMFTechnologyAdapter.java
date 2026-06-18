@@ -580,10 +580,12 @@ public class EMFTechnologyAdapter extends TechnologyAdapter<EMFTechnologyAdapter
 		return "EMF";
 	}
 
+	@SuppressWarnings("rawtypes")
 	public EMFModelResourceFactory getEMFModelResourceFactory() {
 		return getResourceFactory(EMFModelResourceFactory.class);
 	}
 
+	@SuppressWarnings("rawtypes")
 	public EMFMetaModelResourceFactory getEMFMetaModelResourceFactory() {
 		return getResourceFactory(EMFMetaModelResourceFactory.class);
 	}
