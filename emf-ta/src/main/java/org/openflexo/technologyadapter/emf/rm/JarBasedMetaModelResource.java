@@ -58,10 +58,13 @@ import org.openflexo.technologyadapter.emf.metamodel.EMFMetaModel;
 @ImplementationClass(JarBasedMetaModelResourceImpl.class)
 public interface JarBasedMetaModelResource extends EMFMetaModelResource {
 
+	/**
+	 * the following CONSTANTS are used as keys to fetch values stored in file that has a suffix the constant PROPERTIES_SUFFIX
+	 */
 	public static final String PROPERTIES_SUFFIX = ".properties";
 
-	public static final String EXTENSION = "extension";
-	public static final String PACKAGE_CLASSNAME = "package.classname";
+	public static final String EXTENSION = "extension"; // TODO this seems to be a key:value pair what is the value  ?
+	public static final String PACKAGE_CLASSNAME = "package.classname"; // TODO this seems to be a key:value pair, what is the value ?
 	public static final String EMFRESOURCE_FACTORY_CLASSNAME = "resourcefactory.classname";
 	public static final String EMFRESOURCE_FACTORY = "resourcefactory";
 	public static final String META_MODEL_TYPE = "EMFMetaModelType";
@@ -76,6 +79,7 @@ public interface JarBasedMetaModelResource extends EMFMetaModelResource {
 	 * @return
 	 */
 	@Getter(EXTENSION)
+	@Override
 	String getModelFileExtension();
 
 	/**
@@ -84,6 +88,7 @@ public interface JarBasedMetaModelResource extends EMFMetaModelResource {
 	 * @return
 	 */
 	@Setter(EXTENSION)
+	// TODO idf how or why this works at the meta-level ?
 	void setModelFileExtension(String modelFileExtension);
 
 	/**
