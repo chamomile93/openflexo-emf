@@ -1,0 +1,1221 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: oZ55+yiGVOQr6MwZs/nf6zT/EP1uO
+ c4vUnJtGFQsalI=
+SHA-256-Digest-Manifest: bNrBT1o7FjzDHjtffxBLHEQn+dr/q3tmuxaCvVZjylk=
+Created-By: 1.8.0_121 (Oracle Corporation)
+
+Name: org/eclipse/dd/di/DiPackage.class
+SHA-256-Digest: sPFuiQvXEso4JyqG/5GRD/acCUFZKltPsx/otSNX8sU=
+
+Name: org/eclipse/bpmn2/impl/MessageImpl.class
+SHA-256-Digest: 9+DEMYumZVC6G0/+WLoFU+SDWY++FSWrWbVN2PbmWZw=
+
+Name: org/eclipse/bpmn2/InclusiveGateway.class
+SHA-256-Digest: 73mOUwp3Gne6SXcCh6cwYuyg1s4EqQReamdUpzqoRIA=
+
+Name: org/eclipse/bpmn2/ThrowEvent.class
+SHA-256-Digest: L6kZlV+sE4F0AxDEzAJErrmZHwU86C0AU/qZ7KB/+iI=
+
+Name: org/eclipse/bpmn2/impl/SequenceFlowImpl.class
+SHA-256-Digest: C0i3pskg0vObHHe/hqM4sKfHaXb4V7//5b/Z6wW5iyI=
+
+Name: org/eclipse/bpmn2/RootElement.class
+SHA-256-Digest: eucBpy2bYNMLUyJJgImWpfoCCHWSvMF6//ElOs234g0=
+
+Name: org/eclipse/bpmn2/impl/ErrorImpl.class
+SHA-256-Digest: wWiSccSjnlnQngFnKxNBpuPAclq82anFjd2Ng3vCme8=
+
+Name: org/eclipse/bpmn2/EventBasedGatewayType.class
+SHA-256-Digest: VceZSNEVSQmvUippx+YsuwRyfwoWtsbYptodGBTcoKk=
+
+Name: org/eclipse/dd/di/impl/DiagramImpl.class
+SHA-256-Digest: Yg5Wo2a6/MxQf9u6uh6jcFULxL/1XYkQQxJX82Tx7nE=
+
+Name: org/eclipse/bpmn2/impl/ExtensionAttributeValueImpl.class
+SHA-256-Digest: Q8Ul0nSzppjnZoFpUaUeyEYdfnUXHsvHFGM5aiWztdo=
+
+Name: org/eclipse/bpmn2/impl/MessageEventDefinitionImpl.class
+SHA-256-Digest: 3Mc/2GmmlheuMwA6tA7VAgk9pRzH2j6RPf+c7vj7hcU=
+
+Name: org/eclipse/bpmn2/di/BPMNEdge.class
+SHA-256-Digest: OLyLC1vXKHC1rS91nEIwRpICYmm/c4kdygXHJaJ6lRk=
+
+Name: org/eclipse/bpmn2/FlowNode.class
+SHA-256-Digest: ZqqRBl+5BSzJPjP7+7hoow7/tYUvn+zuzdFPJyJVtA4=
+
+Name: org/eclipse/bpmn2/EndEvent.class
+SHA-256-Digest: OvJ8OPi1RjMuvjop78EuOGOtQ3g3QmWFykRYjB1Tf24=
+
+Name: org/eclipse/bpmn2/impl/AssignmentImpl.class
+SHA-256-Digest: SuFipuRQi/z7gdIR8jPnFLmaAZ9lDlb8D8fbYOH2Fok=
+
+Name: org/eclipse/bpmn2/impl/Bpmn2PackageImpl.class
+SHA-256-Digest: 4iur/m70H1r6SxGetUHu3n2p/64t9XmAYnQ36s/E5xc=
+
+Name: org/eclipse/bpmn2/impl/ExtensionImpl.class
+SHA-256-Digest: 4cM6BiTOm2fPS1AuDhDM62EyfaCgBNrdhWtRAkw5eqM=
+
+Name: org/eclipse/dd/di/DiFactory.class
+SHA-256-Digest: +h6lxg3WegMoyk2OtlQ7KQQsRLlsfn/sheMQX+qkX8E=
+
+Name: model/DI.ecore
+SHA-256-Digest: ex2KTnu3gKA88fGiZn1r3b4ow9ziHChvnl+egCTvlPs=
+
+Name: org/eclipse/bpmn2/impl/PartnerRoleImpl.class
+SHA-256-Digest: m+wU2mUyvdzeJv6SdGp34h6K3MaqSfWj1WUaOvPgWMU=
+
+Name: org/eclipse/bpmn2/Operation.class
+SHA-256-Digest: HukUfbKcYlA4RCrD5rxf4SixiwYxQl9CWqfaFUIojLo=
+
+Name: org/eclipse/bpmn2/util/Bpmn2ResourceImpl$2.class
+SHA-256-Digest: Sq1F1wL5Y30MXuOdfpqW0cKyCYC5nJcqyEIDyYP1+aU=
+
+Name: org/eclipse/bpmn2/impl/ConversationImpl.class
+SHA-256-Digest: aFjCIvPp1BmNdPhm44LTQwC/08vcE8/u9u7bQ4wJi4Q=
+
+Name: org/eclipse/bpmn2/impl/DataStateImpl.class
+SHA-256-Digest: M+VxisIybYrR5Rjz7YSfPJw41Pu127rrtwgJCZPENSo=
+
+Name: org/eclipse/bpmn2/impl/GlobalUserTaskImpl.class
+SHA-256-Digest: On6GCnItWEJTSgJwDg1f0fnTjYcvAj1dKFAgIz1D3I4=
+
+Name: org/eclipse/bpmn2/ChoreographyActivity.class
+SHA-256-Digest: Ctyq8qTPQkNqWflqMsX5D3rIu4XW4QtNn3JNYPqdPiQ=
+
+Name: org/eclipse/bpmn2/impl/IntermediateCatchEventImpl.class
+SHA-256-Digest: UYFQ1sSudd0RHBn5q7c1GLz81CuCyB2wpvG5+KvEBxk=
+
+Name: org/eclipse/bpmn2/AssociationDirection.class
+SHA-256-Digest: l1vLEvcQogWYZaMzRS13UV8pLFoPS6/lz4xWrIri0CE=
+
+Name: org/eclipse/bpmn2/AdHocOrdering.class
+SHA-256-Digest: M5/9q38uE9pcnKWLbYBVuYhIHIcd/3l85yjqUHFnKXw=
+
+Name: org/eclipse/bpmn2/impl/BoundaryEventImpl.class
+SHA-256-Digest: wscoKwTDjZ8xnR/YMiYYPZXi7nQ577doGht6kWfJY2k=
+
+Name: org/eclipse/bpmn2/Message.class
+SHA-256-Digest: i4DrGtQAdCuwKRxFHKqC1EyNdTsjPXQ31OcntrubIJk=
+
+Name: org/eclipse/bpmn2/util/ImportHelper.class
+SHA-256-Digest: gDiO5aIPqXBhMvQstIgCX/sBZlH5QkNkHX+wbzNf+N0=
+
+Name: org/eclipse/bpmn2/impl/FlowElementImpl.class
+SHA-256-Digest: JNycUUlji+5ne5efUb3xDbwXVrwgK8OJzzF5TDWpXbo=
+
+Name: org/eclipse/bpmn2/di/DocumentRoot.class
+SHA-256-Digest: 7c/6qcGgEy/EmrGyiprYLSLbYpPdFrIMf+RwTJleiD8=
+
+Name: org/eclipse/bpmn2/impl/ChoreographyActivityImpl.class
+SHA-256-Digest: 1z23g33MhsBtE4hYRxikerco8XD8PIT1j1dcwHJIUGU=
+
+Name: org/eclipse/bpmn2/util/QNameURIHandler.class
+SHA-256-Digest: zqUHszfrJ1unzYOcCJWqcQwPSIFkFfk0CLNQ8pNo6NM=
+
+Name: org/eclipse/bpmn2/DocumentRoot.class
+SHA-256-Digest: ab+hi7vi6GmWzahmwdJE+LsApFsddYxLS5k3Q0gwJ5A=
+
+Name: org/eclipse/dd/di/util/DiSwitch.class
+SHA-256-Digest: DnZN6GxqCO111bBmRxt/3qQCsrPFd/iVZNbvlIvVILM=
+
+Name: org/eclipse/bpmn2/SubChoreography.class
+SHA-256-Digest: 2WT0CmOUjlhl/wJpznuRo3Re/vCN8LGIMrNkV6q5IRk=
+
+Name: org/eclipse/bpmn2/Association.class
+SHA-256-Digest: O4AzkyiQEvQVtIfT09bXiz5x4bOwQizgIqEzVlP1ZBA=
+
+Name: org/eclipse/bpmn2/util/Bpmn2Switch.class
+SHA-256-Digest: FJjgvgrBsxodgz4Gs8P4ffVCJtKLflBeqsuCgu9Yvns=
+
+Name: org/eclipse/bpmn2/PartnerEntity.class
+SHA-256-Digest: x5vg+TV94303s2b432R/Nsy7vIrBO4ANU4Mpx1iKfZQ=
+
+Name: org/eclipse/bpmn2/Error.class
+SHA-256-Digest: AcMkLJHjZR+m46xKa+ix2KBPMP4Zs1GhJLzOK+QLD/8=
+
+Name: org/eclipse/bpmn2/impl/CancelEventDefinitionImpl.class
+SHA-256-Digest: /Z6U6LxR87GoWfVe9c+oClzuSNHeKXYYo+om0BFZ9Y4=
+
+Name: org/eclipse/bpmn2/Assignment.class
+SHA-256-Digest: Liau4+97y3+2C73AHWj76u6NnrMRqSvz499oDH49NGc=
+
+Name: org/eclipse/dd/dc/util/DcResourceFactoryImpl.class
+SHA-256-Digest: r+USOYPEP7cgWOyJOaoyMD0Q0KiHlwUnYGYqQtubWRk=
+
+Name: org/eclipse/bpmn2/impl/InputSetImpl.class
+SHA-256-Digest: y30vS/DgMc4NgUyxspInJJrPP0GaEU1y4A9neP0rO2I=
+
+Name: org/eclipse/dd/di/impl/LabeledShapeImpl.class
+SHA-256-Digest: 8UmjU4wXJBVxHt8bYuPu8HjO6V9EhjeL6uLy5kzdKms=
+
+Name: org/eclipse/bpmn2/Monitoring.class
+SHA-256-Digest: Gjf/FzbdujaypPLtF713SH/rDEeQQ4xyqz7jEoarB10=
+
+Name: org/eclipse/bpmn2/impl/PropertyImpl.class
+SHA-256-Digest: eM90g4GLLx6yv+kYUkQTx9F7BfSzb6CHaDO8Hril6dE=
+
+Name: org/eclipse/bpmn2/impl/GlobalChoreographyTaskImpl.class
+SHA-256-Digest: HMyNP/o1aJJeqyrMnfM83Ykxth8l64q/ysCakXCqokc=
+
+Name: org/eclipse/bpmn2/impl/ChoreographyImpl.class
+SHA-256-Digest: fNsjCbEgXDhWuZ/BzXxr97ee4+MqqFXbOjaKABJkPUw=
+
+Name: org/eclipse/bpmn2/impl/Bpmn2FactoryImpl.class
+SHA-256-Digest: xDoE6fERnHMuDpbRVKyxh1/BRpQsLUTI17Rl+MZqIj4=
+
+Name: org/eclipse/bpmn2/Import.class
+SHA-256-Digest: qg3zjdYJNANJsp5MoAvXwt8W7NMVvn7+WZJzW7BWr0g=
+
+Name: org/eclipse/bpmn2/DataObjectReference.class
+SHA-256-Digest: x8Jfq1tTdvAenCrgGkKZPPyuIbF3LhBkjj3K+3bCLyI=
+
+Name: org/eclipse/dd/di/Label.class
+SHA-256-Digest: fH9lX6naaJdTbFhw9jGJ+OMzcbizCJyOB3UEJTraBj8=
+
+Name: model/BPMN20.genmodel
+SHA-256-Digest: QzUUQY4ZPv9WREgo7POgiBusbu6NI2rDBbwzwJ8y2ag=
+
+Name: org/eclipse/bpmn2/impl/EscalationImpl.class
+SHA-256-Digest: roRSn0GrolnVcWucnSC6rlIM/EQ0aHurHgie28VJzr4=
+
+Name: org/eclipse/bpmn2/impl/bpmn2.ecore
+SHA-256-Digest: Ue4q9BdD3IG+3fRN5l+NT4J27zW9RVxePvsF1kP84Y8=
+
+Name: org/eclipse/bpmn2/ExtensionAttributeDefinition.class
+SHA-256-Digest: Avb1TGfPra3ckLpqw5KCUhzRRGZi1IRxAr7LcPQmreo=
+
+Name: org/eclipse/bpmn2/impl/LoopCharacteristicsImpl.class
+SHA-256-Digest: 25aklymFdudvIgPzBIvyVVSGw8uVeSRhpwh00mMSw/E=
+
+Name: org/eclipse/bpmn2/CallConversation.class
+SHA-256-Digest: EwnbkdytWmxjnMvg325TZbJ2jGnNfNPNzaeY2+usmHA=
+
+Name: org/eclipse/dd/di/impl/DiPackageImpl.class
+SHA-256-Digest: AXvu7ziE8g4m1nJx6tZiiEc0muETxJUPkiHbBXCi6AA=
+
+Name: org/eclipse/bpmn2/impl/ConditionalEventDefinitionImpl.class
+SHA-256-Digest: K0sLPo7i1uVbWpGijdxnPcjq5SIXeYJZR+WuG/GVZWk=
+
+Name: org/eclipse/dd/dc/impl/PointImpl.class
+SHA-256-Digest: lL9N0XDspKw4nm6LG1U5/KP4hFd9LykYvt8aiHEWW38=
+
+Name: org/eclipse/bpmn2/impl/LaneSetImpl.class
+SHA-256-Digest: hLlqOsJc73lra6DmZRfV8/v5hwIZc9bl3j5cQN+uItY=
+
+Name: org/eclipse/bpmn2/impl/AuditingImpl.class
+SHA-256-Digest: YGfV1Sx6yuwVxesAtPDomjlprEsWeYJIp28k21OPZ/M=
+
+Name: org/eclipse/bpmn2/Artifact.class
+SHA-256-Digest: fES3xdt6WgzPTsNZogSTEvLDCKOHy7UKsGrYbanTTFU=
+
+Name: org/eclipse/bpmn2/impl/CorrelationPropertyBindingImpl.class
+SHA-256-Digest: BaXPGYOgfcI828DLcJ2IAReHDkfxrLZyS1eiZ6BKxnc=
+
+Name: org/eclipse/bpmn2/impl/GlobalTaskImpl.class
+SHA-256-Digest: 1DlxiiK/Nz3UDppf/AX+I8JC0XUnj2sHGD5WbpqCAmg=
+
+Name: org/eclipse/bpmn2/impl/CorrelationSubscriptionImpl.class
+SHA-256-Digest: RWcjsxQW/wOA6gnxnBvOGZgyH0voVMc3YyzmxRpuicE=
+
+Name: org/eclipse/dd/di/impl/LabeledEdgeImpl.class
+SHA-256-Digest: pnUrSpmBaEricA/xzzJGo7/6wwRiQsK7mqy/ZJczRk8=
+
+Name: org/eclipse/bpmn2/impl/CallChoreographyImpl.class
+SHA-256-Digest: E8SRrGSRVPJirBZ0IotVtTjOXaJ/VQsOMb8audkh0ug=
+
+Name: org/eclipse/bpmn2/AdHocSubProcess.class
+SHA-256-Digest: qL6/UWRJFgrFLgZk90FvUBrohyZWRgv6pXwjG/xKnfo=
+
+Name: org/eclipse/bpmn2/Transaction.class
+SHA-256-Digest: WA6lMyv5JiLL9AQnYSHBlB3vzekDqVG798Ve7K6VHNU=
+
+Name: org/eclipse/bpmn2/OutputSet.class
+SHA-256-Digest: UKMSnMY16gxtDmpaVMXrMJyBqvAHVIWR6k3zmlEaaek=
+
+Name: org/eclipse/bpmn2/Documentation.class
+SHA-256-Digest: CyqdXUwCSBCyjBRVPHN+QG4yfU1JGS4BegZ1V1vQ4wc=
+
+Name: org/eclipse/bpmn2/ReceiveTask.class
+SHA-256-Digest: S/e/mti2wtwyDYS0NIvWfzQsRIxls+/HRdX93HAFsf4=
+
+Name: org/eclipse/bpmn2/impl/DataStoreImpl.class
+SHA-256-Digest: jRllv2G7gxrvUeW0BwsYSp+5RalWuJ5esTVmSs766zk=
+
+Name: model/BPMNDI.ecore
+SHA-256-Digest: a1I5FxYR1EnESjfLE59UVBo+eAk/la7wrLuiain/lW0=
+
+Name: org/eclipse/bpmn2/CorrelationSubscription.class
+SHA-256-Digest: LxdgQj0Y9OLw/NUMn7ERaE9JQ78eheKRS9qCRQR7dKk=
+
+Name: org/eclipse/bpmn2/di/BPMNDiagram.class
+SHA-256-Digest: DLOYGrQdrJm7Bxwc2Ys5PGOl9L0h6sXmxFOXo+RYHCI=
+
+Name: org/eclipse/bpmn2/Relationship.class
+SHA-256-Digest: xZRia0m2/b7PfI82j2PMlFoINY4bXu2lznUskNTAsAo=
+
+Name: org/eclipse/bpmn2/LaneSet.class
+SHA-256-Digest: AKsSh/xkLLQ2d820optW22nJWo67mQfBskc972ucV3w=
+
+Name: org/eclipse/bpmn2/BaseElement.class
+SHA-256-Digest: 4h4KV5B/DTkgwPIv56V9Ie63enDY+ur56V7z/86VsUE=
+
+Name: org/eclipse/bpmn2/Event.class
+SHA-256-Digest: rkbh8LnkLAsvd+VGkN/4V0HEUM8j8gNbGnoZG05yNVo=
+
+Name: org/eclipse/bpmn2/impl/ErrorEventDefinitionImpl.class
+SHA-256-Digest: fQ2vw65oG0GgoEm7WbLPEjgIkKPo+m9djYs0gH555Hc=
+
+Name: org/eclipse/dd/di/impl/ShapeImpl.class
+SHA-256-Digest: MCZSIoWDhBgniXcVlv9/L6xp4MLAFzEJiA5suACRlko=
+
+Name: org/eclipse/bpmn2/util/Bpmn2XMLProcessor.class
+SHA-256-Digest: 8fnUuM6x9ALCVrtFcEEkm35NDvjEcNggHJfhdtPu+XY=
+
+Name: org/eclipse/bpmn2/GlobalChoreographyTask.class
+SHA-256-Digest: 5UqWQxRQRifIq+H6eoQlak4vfsadyfrc7SANEYnXo5k=
+
+Name: org/eclipse/bpmn2/Resource.class
+SHA-256-Digest: gnaaG5it9JQhxottsY6QhWANa3E++VT1qjoi58Iuvow=
+
+Name: org/eclipse/dd/di/util/DiResourceImpl.class
+SHA-256-Digest: hF/Rh8V8jzd8ZR2zJWaQ5phYHEBL9eZ0NX2dgCZ1Yu4=
+
+Name: org/eclipse/bpmn2/impl/InclusiveGatewayImpl.class
+SHA-256-Digest: YJDuZTn0omSxBufqbBc+CkH675KAx+EcsfDx0wRLgG8=
+
+Name: org/eclipse/bpmn2/impl/CallActivityImpl.class
+SHA-256-Digest: xrGKJQE4xPPVgwEAvp9VKc1ltjfqMpuqEVIwVmdDkqE=
+
+Name: org/eclipse/bpmn2/ResourceRole.class
+SHA-256-Digest: 3UVMZaAWvEPBF7+R/zMer3Zfu8XD7iuFVBxq/vBuZfM=
+
+Name: org/eclipse/dd/di/Node.class
+SHA-256-Digest: BbL7ffZN9CIjtZhO+Zs+9sOd+kiO47UHr2kVLz+g6Dg=
+
+Name: org/eclipse/bpmn2/impl/DefinitionsImpl.class
+SHA-256-Digest: UJF4b3qA61uacYM6E1vUC7RiiJ+nS8G+0NPR0Kd9COI=
+
+Name: org/eclipse/bpmn2/ItemAwareElement.class
+SHA-256-Digest: H/eYpsNCnK04oVRzU3DVBu0yR0FYL88r4QV9kEoDq1c=
+
+Name: org/eclipse/bpmn2/impl/ExtensionAttributeDefinitionImpl.class
+SHA-256-Digest: WKVX8SOMZvXVKydtb47uFODjyvCK0RUWBYcvObBN028=
+
+Name: org/eclipse/bpmn2/di/BpmnDiFactory.class
+SHA-256-Digest: xNrApfaDboI8oUpr508eFSK5Vg987SkMJWEmNzS0gfo=
+
+Name: org/eclipse/bpmn2/LoopCharacteristics.class
+SHA-256-Digest: kxG7PDtGrXK5ZReb5YEbH0vbOz5NT1GjnFumpANJEhQ=
+
+Name: org/eclipse/dd/dc/impl/BoundsImpl.class
+SHA-256-Digest: 44CnyyCbKjrxbLvL5l4+5MhglFI5hn32moXHpyFbqg8=
+
+Name: org/eclipse/bpmn2/impl/FlowNodeImpl.class
+SHA-256-Digest: 7SVMght6OO96E21rmYtfKCYalP+SGjC9deGRLJMo0RE=
+
+Name: org/eclipse/bpmn2/TimerEventDefinition.class
+SHA-256-Digest: dbVZygzVhJK2pNPBrnWU0e5LHZLEYVnQiR6BA/0B+y0=
+
+Name: org/eclipse/dd/di/Diagram.class
+SHA-256-Digest: xSQWgo9BEUsbk/Ml3aFAFDCvA0eclnbogkVYUyv0EWU=
+
+Name: org/eclipse/bpmn2/ConditionalEventDefinition.class
+SHA-256-Digest: mV2IUKvR0ip6y0AWvtCjLJWDbFaNuQtyVhIRCS4z0/I=
+
+Name: org/eclipse/dd/di/DiPackage$Literals.class
+SHA-256-Digest: 26ktIMlBpIzUXK5kBECTXZPhBF8PICrA8auqYNFJ3xI=
+
+Name: org/eclipse/bpmn2/impl/BusinessRuleTaskImpl.class
+SHA-256-Digest: eC8ZzaV+aLBhRPAnkkbIFQLfQ96rRA9I8yBl9rE2qa4=
+
+Name: org/eclipse/bpmn2/impl/ParallelGatewayImpl.class
+SHA-256-Digest: VMgHV+fqhGmOCyEYwjZKjJOiG6+lYSbkZ0aJmwVBziw=
+
+Name: org/eclipse/bpmn2/impl/ProcessImpl.class
+SHA-256-Digest: NLE8ku9jMF46UEF8zXfriEnRSbSqNgCKtkCqjVPvv2o=
+
+Name: org/eclipse/bpmn2/impl/InterfaceImpl.class
+SHA-256-Digest: fZUcS1WBVuKgi45SgiC1cwu42547JvZ1qLrLYUkeVjY=
+
+Name: org/eclipse/dd/dc/impl/FontImpl.class
+SHA-256-Digest: THXvp3TsMnsI0tFS0IXwbDEr9G3J/o4o2t6chVr8ips=
+
+Name: org/eclipse/bpmn2/impl/InteractionNodeImpl.class
+SHA-256-Digest: hy1gBgg6J7xB+CMqJTu+BeqKn1BGa95GN2mMir1djHU=
+
+Name: org/eclipse/bpmn2/ManualTask.class
+SHA-256-Digest: FlFLbKAE1XRmdsFYqeKiFm1ROhNOoTIgiR+SlqkDs3A=
+
+Name: org/eclipse/dd/dc/util/DcValidator.class
+SHA-256-Digest: HRkz3NZnpv57zOlOg0YR9aexCXa3z4B899hs/9bnnnE=
+
+Name: org/eclipse/bpmn2/impl/SubChoreographyImpl.class
+SHA-256-Digest: jUY/eKsykCUfrz1c8onQrZfPsYDmy6bH+RmIT0TDOsU=
+
+Name: org/eclipse/bpmn2/ConversationNode.class
+SHA-256-Digest: 3IJreXTTejlJNJpryojdq2oElpDrugtIyGbCOP1n9h4=
+
+Name: org/eclipse/dd/di/LabeledShape.class
+SHA-256-Digest: m/5F/I6g796YkoTznlZQlCROA97SM6+luK3ay9BFb/4=
+
+Name: org/eclipse/bpmn2/impl/StartEventImpl.class
+SHA-256-Digest: LIecfsa9EP08v+KYgEmOku+gYcxi1+tKdLwCT3uxUAY=
+
+Name: org/eclipse/bpmn2/ImplicitThrowEvent.class
+SHA-256-Digest: v68aGNnlu2qnR5Lsksc5nb6rYb3Ek0vaIPxwHQtk3ws=
+
+Name: org/eclipse/dd/dc/impl/DcPackageImpl$1.class
+SHA-256-Digest: NZO7yEiVfn6VSYcv63CTxhDj1btsSoj7ccDgXjMlu20=
+
+Name: org/eclipse/bpmn2/impl/DataInputAssociationImpl.class
+SHA-256-Digest: zoJY+4UAvewCtEzSKgczie+/ZYmSepz4m1Hf5+imVOY=
+
+Name: org/eclipse/bpmn2/Process.class
+SHA-256-Digest: Djwi5EvxoUpuYq1NApac6gYb+1s0IekVIVdF7aoMe6A=
+
+Name: org/eclipse/bpmn2/impl/CallConversationImpl.class
+SHA-256-Digest: zNR5pnJNXQC4Ao///9zXrnX3wOK0Bnb/9kcKlT+lnCk=
+
+Name: org/eclipse/bpmn2/di/util/BpmnDiXMLProcessor.class
+SHA-256-Digest: 9OqxQ8px6gnrLPCiFSf75wcckkjVyYXn/3soPWsCdQk=
+
+Name: org/eclipse/dd/di/DiagramElement.class
+SHA-256-Digest: AZS2U7vMf/phv+UNnvDHNoyn3XZi7hiqTujZ9kVztSw=
+
+Name: org/eclipse/bpmn2/util/XmlExtendedMetadata.class
+SHA-256-Digest: JDpp1Yi3lJQN5i7cNJcdHvHTCeXahiBI6qJUVWjXSqk=
+
+Name: org/eclipse/bpmn2/impl/FormalExpressionImpl.class
+SHA-256-Digest: Qme0hHe7OwiMnHDCB6lG4BMSvP3zD0XDg4y4qQdasKs=
+
+Name: org/eclipse/bpmn2/impl/BaseElementImpl.class
+SHA-256-Digest: NGYUXiZ6Lo/AF7yCA0DkT/X7qY0Imzq9iBg3pOsXwd0=
+
+Name: org/eclipse/bpmn2/impl/TerminateEventDefinitionImpl.class
+SHA-256-Digest: 7TgHKd4fprP8N+wiCtBdlh6jZoh9VHFpHVj8g3yHW1g=
+
+Name: org/eclipse/bpmn2/impl/GroupImpl.class
+SHA-256-Digest: dDeu8uRmYvqsbF3SIS/0pHuGDjCEszTbnXT7eBkRiWI=
+
+Name: org/eclipse/bpmn2/di/BPMNPlane.class
+SHA-256-Digest: lU8gXGwHul+25UPYqg3PGTTocCPHp4fGdJTP4fK2Yak=
+
+Name: org/eclipse/bpmn2/Group.class
+SHA-256-Digest: oT6qOMOLuJed4R0iCbxf0v1Sg5xUAZ6Ndji2RWT6M3o=
+
+Name: org/eclipse/bpmn2/impl/GlobalBusinessRuleTaskImpl.class
+SHA-256-Digest: HXbUAIqwPwYYVy9j6ck5AP4+MUXF0F2a0IvZTav611k=
+
+Name: org/eclipse/bpmn2/SubConversation.class
+SHA-256-Digest: 7TX97BRsKHIF6tPkTsSPE1UimhFIUnibP84pposMT2g=
+
+Name: org/eclipse/bpmn2/impl/DataAssociationImpl.class
+SHA-256-Digest: llm0woxR25d44wUTDaxoQBM5PEh0ST9lVwAC50+F16U=
+
+Name: org/eclipse/bpmn2/di/BPMNLabel.class
+SHA-256-Digest: DSFUilE4J7C4YEJVWCYdXC16JZ1NDA2SyVatMb5wj/U=
+
+Name: org/eclipse/bpmn2/impl/ServiceTaskImpl.class
+SHA-256-Digest: Ftm4g5DyhNatf7Fd6kpZJWsRIgpwP/vip7IlnIhPr/w=
+
+Name: org/eclipse/bpmn2/impl/TimerEventDefinitionImpl.class
+SHA-256-Digest: 663grhrNBDo+gHwxmASDJxrDVDo2nMLfIrewX5/F7PU=
+
+Name: org/eclipse/bpmn2/impl/ManualTaskImpl.class
+SHA-256-Digest: MwTIcr+Byu4tFWrTHbud5hm1WBKPUe1qLyIvnz9XGzw=
+
+Name: org/eclipse/bpmn2/impl/ResourceParameterBindingImpl.class
+SHA-256-Digest: 7vdz+VRslge6UAcMsd1Xq6YCGP5KmoLUYX+IXzyFfZQ=
+
+Name: org/eclipse/bpmn2/impl/StandardLoopCharacteristicsImpl.class
+SHA-256-Digest: Ntm+a5+tIA3CY0CEcxziFR0+CGF/+noPovvQn/5f120=
+
+Name: org/eclipse/bpmn2/CorrelationPropertyRetrievalExpression.class
+SHA-256-Digest: hdbi4zQdmkHGBPLujf+ZpPM0PP/Ec+H2KefQNDTsNEs=
+
+Name: org/eclipse/bpmn2/InputOutputBinding.class
+SHA-256-Digest: RvEQJF9b2ZNqEgU76E3gcL6aaj8QJ87b34F4cIKJst0=
+
+Name: org/eclipse/bpmn2/impl/ResourceParameterImpl.class
+SHA-256-Digest: A0YOV4K4eYq7VsNMyZP5pZgzIObpTxrKs5rZKjlhLpM=
+
+Name: org/eclipse/bpmn2/Property.class
+SHA-256-Digest: tTsualPZ1YSsX6g4W9DTdcgu+PRw0b2yeL4WYRbk0M8=
+
+Name: org/eclipse/bpmn2/impl/SendTaskImpl.class
+SHA-256-Digest: RNivnvz6pUDWtlSY8qiN+OzREJ2fOQRtQ80n/oYqMAM=
+
+Name: org/eclipse/bpmn2/RelationshipDirection.class
+SHA-256-Digest: vOlsZUhCSMWghHmBdVPU2IPVh7LfgaD2t3lT0F+S8LE=
+
+Name: org/eclipse/dd/dc/Font.class
+SHA-256-Digest: TGkRO8WFAWa11xcVjyKoKSHHlo8nPU+VARXv0CBdqBQ=
+
+Name: org/eclipse/bpmn2/Lane.class
+SHA-256-Digest: 7aM+RjDx3tVblPedUKdvQmbgDQLxO20e/KD5vRHLwss=
+
+Name: org/eclipse/bpmn2/di/util/BpmnDiResourceImpl.class
+SHA-256-Digest: a5qEDEtdLNUS3vWt2UKP3bTcH40Gipe0M/AHCjcTRc0=
+
+Name: org/eclipse/bpmn2/di/BpmnDiPackage$Literals.class
+SHA-256-Digest: y4BUXFG7wy6HTFPbBQ/QAgCiSHzcYktZ8Lpnoha796s=
+
+Name: org/eclipse/dd/dc/impl/DcPackageImpl.class
+SHA-256-Digest: kyDO6qgLPL2xCk4w8gZOzbHl61WFmYBty6FtzvhzcLM=
+
+Name: org/eclipse/bpmn2/di/BpmnDiPackage.class
+SHA-256-Digest: JU56YA2u8i1qNNrSGsScXM2+s7qEJ8VDXLdI3CUn98s=
+
+Name: org/eclipse/dd/dc/DcFactory.class
+SHA-256-Digest: vwXp7vatYPZfmG6dK8VhvrDMRx5JKfuVn5gY1IG+/4o=
+
+Name: org/eclipse/dd/di/impl/DocumentRootImpl.class
+SHA-256-Digest: cYo8BlZ260SOtDgITOWDCjw+geFNwl/95Z2iq7Lnw7A=
+
+Name: org/eclipse/bpmn2/di/impl/BPMNShapeImpl.class
+SHA-256-Digest: m8FZPUMmEGUIrqydnTqR2R9G6ezuunJ4bEVO8qY7ZZs=
+
+Name: org/eclipse/dd/di/util/DiAdapterFactory.class
+SHA-256-Digest: vbSrNu9P9n2LWrC3eUmLkK9TavyGO/BD0lEcCc6P9v0=
+
+Name: org/eclipse/bpmn2/impl/TaskImpl.class
+SHA-256-Digest: T9zCA3Ah2G/xfE+M6vi5n48QKXISg0bjiZ6hOGByapM=
+
+Name: org/eclipse/bpmn2/Gateway.class
+SHA-256-Digest: xMV7CFYoZubB6FPQePK3szeLZF8z1Gh7mGsainjjFY8=
+
+Name: org/eclipse/bpmn2/Signal.class
+SHA-256-Digest: DEJhIe9+MwfbNFGY3bYtjHiu/iiflnMuaMXp4aBDtvM=
+
+Name: META-INF/maven/org.eclipse.bpmn2/org.eclipse.bpmn2/pom.propertie
+ s
+SHA-256-Digest: +gA4BFGRvqjXeCRY813mp+2SzseUGDwqGko2NqgumaA=
+
+Name: org/eclipse/bpmn2/MultiInstanceBehavior.class
+SHA-256-Digest: FPX+1QwWOLosXCXu02fGBMhlyvsHdOgrwwDXE2atBK4=
+
+Name: org/eclipse/bpmn2/impl/GlobalScriptTaskImpl.class
+SHA-256-Digest: uWzllUAOc5Jx7d66ihY6YKAKEUkS2fFWuzFn4oOS/EM=
+
+Name: org/eclipse/bpmn2/impl/SubConversationImpl.class
+SHA-256-Digest: ZkPYjPLAjsa6FHo10UIRpT3VEYTm0d/Y4nt9g4hk9/I=
+
+Name: org/eclipse/dd/dc/impl/DcFactoryImpl.class
+SHA-256-Digest: n7gB1Bo4FyMSvIOHtEuQPauEXAb7MWF8598+AzQiqjw=
+
+Name: org/eclipse/bpmn2/Task.class
+SHA-256-Digest: zrstZr/hKaTGubJZrJ2VtNwHNagNd/ZPfG+tAUUmWbA=
+
+Name: org/eclipse/bpmn2/impl/PartnerEntityImpl.class
+SHA-256-Digest: +YD5H1tt/Ub3AGlF6/ofgneNWITqWW8hl4INSl83fhU=
+
+Name: org/eclipse/bpmn2/ProcessType.class
+SHA-256-Digest: gAvTjjWmrsKzGAsOFpeIeOZ+OOiBkOVGK3Okc7qgi88=
+
+Name: org/eclipse/bpmn2/EndPoint.class
+SHA-256-Digest: 6EESMTINxcJYoRTtKGzpZomzQxVPoIFJwK78KCqL47U=
+
+Name: org/eclipse/bpmn2/CorrelationProperty.class
+SHA-256-Digest: ytGQScXjlBYHD5kx5DRXNNp7e07iSfCc37KJ4rxtt9s=
+
+Name: org/eclipse/bpmn2/DataOutputAssociation.class
+SHA-256-Digest: jhRBsfs+RYTKD0yJz62HlkiT1dkkpMIb5nQu+XhYLSQ=
+
+Name: org/eclipse/bpmn2/impl/PerformerImpl.class
+SHA-256-Digest: PEKXgyL/skSrqEIZsodi6W7Ig4SbU57sHSXsGCP/cSQ=
+
+Name: org/eclipse/bpmn2/EscalationEventDefinition.class
+SHA-256-Digest: YSiBt30chXgkx/NrnktdWjp9MSoOKVTgPQFmYJOfBAA=
+
+Name: org/eclipse/dd/dc/Bounds.class
+SHA-256-Digest: HSQuYCQihi85fLNto4LlHyVg+UxSf+cKvHabXT5cuGY=
+
+Name: org/eclipse/bpmn2/impl/RootElementImpl.class
+SHA-256-Digest: 8oaGdihvA4ftQG4epH3347JjOUYFKvEfn40fF4b3690=
+
+Name: org/eclipse/bpmn2/GlobalTask.class
+SHA-256-Digest: tOtWKHLG6nudi+bHhrONcuhdQGtwVtir/L+/pMRHiuk=
+
+Name: org/eclipse/bpmn2/di/impl/BpmnDiFactoryImpl.class
+SHA-256-Digest: 0FSn1rl1I2ZkvEfvDkszBOfjkgtnPIMeLijGcPhzSxM=
+
+Name: org/eclipse/bpmn2/Rendering.class
+SHA-256-Digest: 1glpYVUsXejZKfTcW7awc5fxcXgXsPElg5hgd+9rrzM=
+
+Name: org/eclipse/dd/dc/DocumentRoot.class
+SHA-256-Digest: 03NOHf7PU6dp1v0E7tLbZ30PCT5/Ta7EzISjShhOhAQ=
+
+Name: org/eclipse/bpmn2/impl/CorrelationKeyImpl.class
+SHA-256-Digest: Dmm2l917K/4k5O5MiqcQRNAE+KwEpsl09YkAwSXuY7g=
+
+Name: org/eclipse/bpmn2/impl/GlobalConversationImpl.class
+SHA-256-Digest: UFHxJvupRo5jPw5Cy0K2ab33QMoHO+64WGYDXspEmZY=
+
+Name: org/eclipse/dd/di/LabeledEdge.class
+SHA-256-Digest: aHL9wd5IpofY37ZXM2LPnQLgQg7Hm/7hNgWGxMnsIbs=
+
+Name: org/eclipse/bpmn2/impl/DataOutputAssociationImpl.class
+SHA-256-Digest: TCk7XQDglXxdTUdiiDs1QIIdGb6D696QB4Tmw7EuAkU=
+
+Name: org/eclipse/bpmn2/impl/InputOutputBindingImpl.class
+SHA-256-Digest: YcBfusosVs3ihQsKbCH/peM4cts/DF5JWRPk3zl8kxw=
+
+Name: org/eclipse/bpmn2/impl/EndPointImpl.class
+SHA-256-Digest: 7gacri3I6aXFUy7ZB0ciCZ97OGNmERt0iLXFdHVjlSE=
+
+Name: org/eclipse/bpmn2/Extension.class
+SHA-256-Digest: O9jde/VcSe5HeD4qTWt13iWIZSuThm8Bjo3oiv1W41w=
+
+Name: org/eclipse/bpmn2/impl/TextAnnotationImpl.class
+SHA-256-Digest: 1s5+vVq8qgHa/ku6AlDa/8WXlOOopnQ5+Dnn9rJdVdY=
+
+Name: org/eclipse/bpmn2/util/Bpmn2XMIResourceImpl$1.class
+SHA-256-Digest: JgvJYctOli77h6Ft/3ov5+pH2gUlnzVPUGqXbVa73bo=
+
+Name: org/eclipse/bpmn2/PotentialOwner.class
+SHA-256-Digest: 9aumiNKGW+vzvWkvPY9MkYF8E8tgtObGKRDlL9ZoVXA=
+
+Name: org/eclipse/bpmn2/MultiInstanceLoopCharacteristics.class
+SHA-256-Digest: WTa8H9gczm3YLXm9tyHR2cVmXQzfNhkgqdu38/JE7s8=
+
+Name: model/BPMN20.ecore
+SHA-256-Digest: u1UIrimmN+9JkR4TYuNRF5JrIUPDb37Mw9fnDZ/1IE0=
+
+Name: org/eclipse/bpmn2/impl/ComplexGatewayImpl.class
+SHA-256-Digest: iiLcZCD3H8iEtlNr+lqxiJhfu47PTzhwYWgS5gNBPRY=
+
+Name: org/eclipse/bpmn2/impl/OutputSetImpl.class
+SHA-256-Digest: 2BWStZh7AeNQrw6WTZCFQ7rYsGYOOYD+/hEHMSeIKsI=
+
+Name: org/eclipse/bpmn2/util/Bpmn2AdapterFactory.class
+SHA-256-Digest: 5YM5vpu918T1vrp6SzY+z/runZPp74XEM/OpMBEHHWQ=
+
+Name: org/eclipse/dd/di/DocumentRoot.class
+SHA-256-Digest: CDznmYFiffZjJvQlPTm3Bx0zCX4GiuXwBpEzHLbJGig=
+
+Name: org/eclipse/bpmn2/impl/DataStoreReferenceImpl.class
+SHA-256-Digest: LWleY8P99/MA4yCnCSJ+V74FsXzYuAV7PB9MPj0Jrss=
+
+Name: org/eclipse/dd/dc/util/DcAdapterFactory.class
+SHA-256-Digest: tqURc2Yt5GFTMh4n+AQ+e0o2lfX+ZAhXmRFTtce9NHM=
+
+Name: org/eclipse/bpmn2/EventDefinition.class
+SHA-256-Digest: rSTWqJXRFugWDH1Wfk3YuJPVfrTLzDDaIToxYw6FyO8=
+
+Name: org/eclipse/bpmn2/impl/EventDefinitionImpl.class
+SHA-256-Digest: ScwZfgEgvdt0pmUYhBAehtorIkAdUFhbMQKM8nqUxtU=
+
+Name: org/eclipse/bpmn2/util/Bpmn2XMIResourceImpl.class
+SHA-256-Digest: ed/kwuPNveUdp6mBn+60eDppGNDbI5pdZbLxO46Df68=
+
+Name: plugin.xml
+SHA-256-Digest: jIB1JLLJuu0IWhBZK6hPdk/e8BsilquE0RyhkAlfwh8=
+
+Name: org/eclipse/dd/dc/impl/DocumentRootImpl.class
+SHA-256-Digest: g4W72EOn1El4QOQSzAWe8564efIJjLMLd5FGCN74HRs=
+
+Name: org/eclipse/bpmn2/DataObject.class
+SHA-256-Digest: d+WrDCcABmje4qf+YKNF4niCs7TnIGU4EgqIqeySzWc=
+
+Name: org/eclipse/dd/di/impl/EdgeImpl.class
+SHA-256-Digest: FY4ij+6tj8Niet3nmHYnPUmzwX73EZzOyBXsALPBdLk=
+
+Name: org/eclipse/bpmn2/di/MessageVisibleKind.class
+SHA-256-Digest: 9tM+KW3XOXZWpqV1GJVjclnb5W8wUmAq77dXEnKVJFU=
+
+Name: org/eclipse/bpmn2/di/util/BpmnDiSwitch.class
+SHA-256-Digest: 4rw9TSyf78rIFHqWpCBxRwmQJ6s7aNObzdvt/pMk3HA=
+
+Name: org/eclipse/bpmn2/PartnerRole.class
+SHA-256-Digest: eAFg+QXaL511m7JxMHVi02uMEcP2kKwyyku0bs5ir18=
+
+Name: org/eclipse/bpmn2/ParticipantMultiplicity.class
+SHA-256-Digest: Iay/ZZtb1GlONzHOzjRsWTp5JCaZSsFZw5++o+eZPbw=
+
+Name: org/eclipse/bpmn2/util/Bpmn2ResourceImpl.class
+SHA-256-Digest: neB1InNwafpQq/LoKESdubpTxKxpVGlnVRTXjdL1WR8=
+
+Name: org/eclipse/bpmn2/ResourceAssignmentExpression.class
+SHA-256-Digest: eAnxJkytctyje7W1/8v7/p9E9Q53SGQLKYvMajER67Y=
+
+Name: org/eclipse/bpmn2/IntermediateThrowEvent.class
+SHA-256-Digest: OtJDosWSDSqfndmnqhj37quBEqNImau9ty/SlHi7xhY=
+
+Name: org/eclipse/bpmn2/FlowElementsContainer.class
+SHA-256-Digest: 5EXnWYJ5BQugPXmVF6w0SU4xVq0mKH2Q23UkY6Et0Kg=
+
+Name: org/eclipse/bpmn2/impl/CompensateEventDefinitionImpl.class
+SHA-256-Digest: lFoZln/J9vpa60FS2/PJKYDPsWtXXAMVueL/jgTAKHY=
+
+Name: org/eclipse/bpmn2/UserTask.class
+SHA-256-Digest: cHxC9jbUmJhJmgXSb9ZM5ERp6oD4NBV8fQ5B95OqSiU=
+
+Name: org/eclipse/dd/di/util/DiXMLProcessor.class
+SHA-256-Digest: gHGkSKpvTfg7dB47Mv54HAnDCGhA4vMzItDyoJm82fs=
+
+Name: org/eclipse/dd/di/Style.class
+SHA-256-Digest: sciRy6+P9lNg4Bk3nHriZsiR5WLjehcXa6TN4THYpjs=
+
+Name: org/eclipse/bpmn2/GatewayDirection.class
+SHA-256-Digest: gEdIUkXhbxuI89O5vUbIVtkWDf9uPHFsQ5NJa9xPehk=
+
+Name: org/eclipse/bpmn2/impl/ChoreographyTaskImpl.class
+SHA-256-Digest: 5yJ4FEs+SoXInseIBzPXmn2b4c5HSXKkFOzfrxBW9sM=
+
+Name: org/eclipse/bpmn2/ScriptTask.class
+SHA-256-Digest: mPxNO6UlIVREBx+83+jR74haJAGPqBGHZUzljnQgo4M=
+
+Name: org/eclipse/dd/di/Shape.class
+SHA-256-Digest: m6VRJ2OR27YH2pU/t5hIHBDOe8rulay6ZulkVpblJ3E=
+
+Name: org/eclipse/bpmn2/InteractionNode.class
+SHA-256-Digest: PZHczS1CefLgwHWQqiMKecbNDz/8dWnTs7nSlA0++nk=
+
+Name: org/eclipse/dd/di/impl/PlaneImpl.class
+SHA-256-Digest: hN0ByLwxks1RUykN5SSgJW6MBxRVzygn6CkvqetpVaM=
+
+Name: org/eclipse/dd/di/util/DiResourceFactoryImpl.class
+SHA-256-Digest: wvCbRV+ywJfj6xMjZzCUPXZmeaSp2NttVZEIzzSt78c=
+
+Name: org/eclipse/bpmn2/di/impl/BPMNEdgeImpl.class
+SHA-256-Digest: jzXPOamvB7EQULM9f2rxqMf/WZbzSsvKacP7V8BRO1M=
+
+Name: org/eclipse/bpmn2/impl/ImplicitThrowEventImpl.class
+SHA-256-Digest: WX8az1RD/bb0qzS/AQnllycUAwSBV2+KgdcKbDWMnqQ=
+
+Name: org/eclipse/bpmn2/SequenceFlow.class
+SHA-256-Digest: jBIDJiBhsZ1zKx3NbGTBh7mt81L/U8B3elxLwOU5CIw=
+
+Name: org/eclipse/bpmn2/ParallelGateway.class
+SHA-256-Digest: 8V8XKwpgwFAQRNXAP5q8MQ/XPMkahqeDF6FdIvxo2lI=
+
+Name: org/eclipse/bpmn2/ResourceParameterBinding.class
+SHA-256-Digest: IcCSKXdoU0k+k0t/7fm4l+ykizv8hb/t4+wDN+SzR2w=
+
+Name: org/eclipse/bpmn2/FlowElement.class
+SHA-256-Digest: 4JruBVtlcpGEEfTW64RlmQTduOVyyxbepCs0GIuItZQ=
+
+Name: org/eclipse/dd/dc/Point.class
+SHA-256-Digest: KudSFCEBsUUcpfBUM7Z+eyPP025fROMmS1HpQane1+U=
+
+Name: org/eclipse/bpmn2/Choreography.class
+SHA-256-Digest: kmEWIeBrPMlsNZEHgazlrXVevwlexgPV17Jl3DO9F3I=
+
+Name: org/eclipse/bpmn2/impl/SubProcessImpl.class
+SHA-256-Digest: sMFcxBoJqdv6EGwz+29WGYLr8nL0RXpQMPMhOFsaZAo=
+
+Name: org/eclipse/bpmn2/di/impl/BpmnDiPackageImpl.class
+SHA-256-Digest: IRGOmdfLF/WgVg7OwbwCVzN/8Y9TfW6yuWxGYyYZHCQ=
+
+Name: org/eclipse/bpmn2/Performer.class
+SHA-256-Digest: 427AodLv2UtDMv6Z7mXuEOXCVRGDghzNov3PGk8jaFE=
+
+Name: org/eclipse/bpmn2/GlobalManualTask.class
+SHA-256-Digest: kpPww40wIGnW8CoiAr3VnNsQ6iss3MNk+W3ym9raoHw=
+
+Name: org/eclipse/bpmn2/di/impl/DocumentRootImpl.class
+SHA-256-Digest: JjVYcaZaF8+gsMpuZpDQzaA4+zroTHjk22JUK4c3m+k=
+
+Name: org/eclipse/bpmn2/impl/EscalationEventDefinitionImpl.class
+SHA-256-Digest: xdgY7jUyxHaRf48N6TrzzEmT2rIyluFexIfifGiTWlM=
+
+Name: org/eclipse/bpmn2/HumanPerformer.class
+SHA-256-Digest: b6w+holGPz/EF8thzlTu3LkFpo4O3PsoY5dgCebaWx8=
+
+Name: org/eclipse/bpmn2/impl/DocumentRootImpl.class
+SHA-256-Digest: 29X5y1elNcAbow3NGL7wec0ZOxYdPNRUNihtwsChdw4=
+
+Name: org/eclipse/bpmn2/impl/FlowElementsContainerImpl.class
+SHA-256-Digest: 0z7IpJhRM2RAOMhsJjwytc7gebtbYB3aZ7ALfM1gwmA=
+
+Name: org/eclipse/bpmn2/util/Bpmn2Resource.class
+SHA-256-Digest: g3feYuKcERCFovJiUGDyLQdmPqys+waLo6fFus0ryIc=
+
+Name: org/eclipse/bpmn2/Collaboration.class
+SHA-256-Digest: 7gBoqsY2+y2pXtagNciNBD5lnOoxEaDh9YUE/ExyZR8=
+
+Name: org/eclipse/bpmn2/impl/ItemDefinitionImpl.class
+SHA-256-Digest: SwBN3QNfg8MO1ZeAu1yR7+EFYqHe2xyUtSROTFuep5s=
+
+Name: org/eclipse/dd/dc/DcPackage$Literals.class
+SHA-256-Digest: 2ORXFWNKGm5729lxC6d1tdayQu5Iq9X3ivoLcdr3ruE=
+
+Name: org/eclipse/bpmn2/impl/LaneImpl.class
+SHA-256-Digest: bWtCA6ePej6Uqs2QFCPoTnkxD+nfFnWOnXy8g78MmMc=
+
+Name: org/eclipse/bpmn2/impl/RelationshipImpl.class
+SHA-256-Digest: GQoPNDMTZkdu2yPhu7UOCGZlKU7epKXZIdgyKg56ha0=
+
+Name: org/eclipse/bpmn2/DataInputAssociation.class
+SHA-256-Digest: FjG0UlLjsnspojxHcYokRmn74zrbLgXugz1N+mTWyKo=
+
+Name: org/eclipse/bpmn2/MessageFlowAssociation.class
+SHA-256-Digest: 56nr0e6fkKXKDizo0Tz+rcbkewzWr4diVm3AY0Qd+VM=
+
+Name: org/eclipse/bpmn2/impl/CollaborationImpl.class
+SHA-256-Digest: qVhxwPs+tXD3vKwHoJLC25kcUqNVJNRWYl+EsvWEY+0=
+
+Name: org/eclipse/bpmn2/SignalEventDefinition.class
+SHA-256-Digest: AflJQbidPtxq+4d9d0LyuivcCV2LmrFHmDJgF6rz1uU=
+
+Name: org/eclipse/bpmn2/impl/SignalImpl.class
+SHA-256-Digest: laOfvjbykvBZcVfeCmqzLf9yGh9mQe+sMTbCR4oeD8o=
+
+Name: org/eclipse/bpmn2/impl/ConversationLinkImpl.class
+SHA-256-Digest: 2g9ljThxq/Fg6+9lDVDlAMr3kNZG6MrMHDpOtg1HiWk=
+
+Name: org/eclipse/bpmn2/Definitions.class
+SHA-256-Digest: jfvlwyz6mONBrL6Od9PoepUUduGAKuBLy5NNDkeE28w=
+
+Name: org/eclipse/bpmn2/ParticipantAssociation.class
+SHA-256-Digest: k3l24pzqy80i51APvmLxiupo7UGfhLQeunfOPf+qsgI=
+
+Name: org/eclipse/bpmn2/FormalExpression.class
+SHA-256-Digest: Of2cE0KRJ4yqLc0slWyF/W+vT/oWRaOfiskJKX4F1w0=
+
+Name: org/eclipse/bpmn2/impl/ConversationAssociationImpl.class
+SHA-256-Digest: tFynql2Ul7tsm9LSaY5XDssTIDCMlB90TYa67c1D5V8=
+
+Name: org/eclipse/bpmn2/impl/ResourceRoleImpl.class
+SHA-256-Digest: otHAZC2qyneUxGnUMOT3v5AsWMLxrLFJWPNJpySIL7M=
+
+Name: org/eclipse/dd/di/util/DiValidator.class
+SHA-256-Digest: XsuSOXXm0CluAWinUFJ9XJX5Wb+oTmzLddzvIIsCYIk=
+
+Name: org/eclipse/bpmn2/impl/ExclusiveGatewayImpl.class
+SHA-256-Digest: DAWHbwAHjpwLWJcfbcaNaLSPt1Utcd3SJGXZm1oSHQY=
+
+Name: org/eclipse/bpmn2/impl/GatewayImpl.class
+SHA-256-Digest: kYLOYboxJdxrvu8Zl9XNdnryqk96z6xqpmxPUFRV1fo=
+
+Name: org/eclipse/bpmn2/SubProcess.class
+SHA-256-Digest: VwDrXX1th67j1b2OGaf3vAfZMb4Jas0IguXxJeLw1r4=
+
+Name: org/eclipse/bpmn2/DataStoreReference.class
+SHA-256-Digest: VvMnTrTnCEpsumP/Cku7GEHsnStAuZe35Y0RB0T4bzw=
+
+Name: org/eclipse/bpmn2/ChoreographyLoopType.class
+SHA-256-Digest: 6ARQATeY8KcE1nQcnQ7M3ucZ85lwm9zuVPPrfg+fuGk=
+
+Name: org/eclipse/bpmn2/ItemDefinition.class
+SHA-256-Digest: f1CmTOpxrVYFaA4xcGFwEIDvsaIXXKqk5eEU8D3Z+BE=
+
+Name: org/eclipse/bpmn2/impl/PotentialOwnerImpl.class
+SHA-256-Digest: V6DAb+a4gcONLF0xQhHMLiQ6F4vjulbtbWMhak6tFfs=
+
+Name: org/eclipse/bpmn2/DataOutput.class
+SHA-256-Digest: KoLMTqPsBQnfMUn2B27B57ecPNzmvWTsIc4v7tCZdK0=
+
+Name: org/eclipse/dd/di/Edge.class
+SHA-256-Digest: k2T2Z4Co+J8BwLqCJtsX7dVAnBD638biQw4xuhjG11Q=
+
+Name: org/eclipse/bpmn2/impl/ParticipantAssociationImpl.class
+SHA-256-Digest: BozFvp6JssVZ0I+7mOG8GFr3jHEg0xAyXrUHF5lYCEU=
+
+Name: org/eclipse/bpmn2/ComplexGateway.class
+SHA-256-Digest: aGt2uiMDdpJ4giHVnqQjbTbLcIfAgsTqNhxZZ0bAApM=
+
+Name: org/eclipse/dd/dc/DcPackage.class
+SHA-256-Digest: FPxZ8F/cY0xDRFKGPWJzQt7e/dW4TDRzXzjWhLCMu/Y=
+
+Name: org/eclipse/bpmn2/util/Bpmn2ResourceImpl$BpmnXmlHandler.class
+SHA-256-Digest: ZuT2ASQEu43WzfAxoZEeHr+vIFz1YpT759oKZHimkCs=
+
+Name: org/eclipse/dd/di/impl/StyleImpl.class
+SHA-256-Digest: ZNSe4qHHF9Pfdf1ABQhW9zWHCaKdFzcDoLmhmBYIJig=
+
+Name: org/eclipse/bpmn2/impl/MessageFlowImpl.class
+SHA-256-Digest: tMXnlr5BIMLKF7GZ24BnwzfGnuwjl/jBCKfuosbwCyg=
+
+Name: org/eclipse/bpmn2/Interface.class
+SHA-256-Digest: W7Bam3XYVYC1YqLAEtJ9OYlosFM6nhsDKsQ/CYf31yU=
+
+Name: org/eclipse/bpmn2/ConversationAssociation.class
+SHA-256-Digest: Qjj5sOr/N/wHmqt5kSBvVDe77re+8L7QvHmukbcnFyE=
+
+Name: org/eclipse/bpmn2/Conversation.class
+SHA-256-Digest: V+J0fdQxfnODVh/OK0PEEHq0VI46u8L1zZO6KMbtEKQ=
+
+Name: org/eclipse/bpmn2/util/Bpmn2ResourceImpl$1.class
+SHA-256-Digest: xr2wefP35/i3TCbqik0LCmW75DmBJRMUAC4nyIxtHLE=
+
+Name: model/DC.ecore
+SHA-256-Digest: zClOjhI5FyPYcRPyv6on0/Pj4HZzN5dairLrs8/GWyY=
+
+Name: org/eclipse/bpmn2/BusinessRuleTask.class
+SHA-256-Digest: 1dMumodstSd/glITzVZp7VNDpkitOo7vN1A+2AIr5z0=
+
+Name: org/eclipse/bpmn2/GlobalConversation.class
+SHA-256-Digest: JC6eczCI5vr397WKrYFWAybZQEo2oiNgqA1SKWnxqYg=
+
+Name: org/eclipse/bpmn2/MessageFlow.class
+SHA-256-Digest: Ho/3pH3eMwSwgmhcjIiqaFhQdAc30xUDMw8Q8MEFkvE=
+
+Name: org/eclipse/dd/dc/util/DcSwitch.class
+SHA-256-Digest: OXbDHMuvelYVvJFtEoOxuNsnelyNG0nYdW+tD7tBkYU=
+
+Name: org/eclipse/bpmn2/impl/ItemAwareElementImpl.class
+SHA-256-Digest: 20ilA7G73HmyRhsVQnS36yw/Lftem8iWpAv9/212PH4=
+
+Name: org/eclipse/bpmn2/impl/AssociationImpl.class
+SHA-256-Digest: sXZnZhvncSV0HPcrG3pES/9N4mOBZSEkE2ACPQ69vlQ=
+
+Name: org/eclipse/bpmn2/util/OnlyContainmentTypeInfo.class
+SHA-256-Digest: aXnwBLTWu9YjhCQAYWtRPxQsW7/himSqF5P8VTSEGC0=
+
+Name: org/eclipse/bpmn2/impl/EventImpl.class
+SHA-256-Digest: uQAbWNjCtkdQkXVqopbCilhvw+YLo9dHRrTZkoy/FF8=
+
+Name: org/eclipse/bpmn2/GlobalUserTask.class
+SHA-256-Digest: 50CeyDDs657RBD3rUrKYmssOrzwNP/V449hWm/t7GSo=
+
+Name: org/eclipse/dd/di/util/DiAdapterFactory$1.class
+SHA-256-Digest: Kr5QdAdQdCFQlfpQKiMI3Owux6aqX/64qqpiY7Tt6QY=
+
+Name: org/eclipse/bpmn2/Participant.class
+SHA-256-Digest: NtFTb+1xySCmHeAUKpEj/2YPF2UuS33I4FhjLK6T6CM=
+
+Name: org/eclipse/bpmn2/CatchEvent.class
+SHA-256-Digest: qJhrn/TB5jcNuZeN6JrxRoqlhJ+fFg4vgEZG4xTEZg8=
+
+Name: org/eclipse/bpmn2/impl/EndEventImpl.class
+SHA-256-Digest: DnZj3ujreeN6wnqn206sC4OMUfWM8ZPwdkadekxoBho=
+
+Name: org/eclipse/bpmn2/impl/CategoryValueImpl.class
+SHA-256-Digest: DFklfIqXWq9bmUiKK9Xj/05LiIWCGZksnavDtN5r4dU=
+
+Name: org/eclipse/bpmn2/Escalation.class
+SHA-256-Digest: I7zGF/vn/7VGGPOxk66Uhtn6fwarj6+iGQMFxObLH3s=
+
+Name: org/eclipse/bpmn2/impl/ConversationNodeImpl.class
+SHA-256-Digest: 6Z8UOY0dR1aHWjxi6MTpdK1Y1isQlb9eb0T/Gy4vD0g=
+
+Name: org/eclipse/dd/di/impl/DiPackageImpl$1.class
+SHA-256-Digest: v4wGo0hPfLHsxngmL7/U4Zhf1XI0HSAAd6qFhOLbBt0=
+
+Name: org/eclipse/bpmn2/impl/DataObjectReferenceImpl.class
+SHA-256-Digest: +D6absACf1sNIcBHQHZxrMcVKT3Nd9ZRnWlPrEVYWUI=
+
+Name: org/eclipse/bpmn2/di/impl/BPMNPlaneImpl.class
+SHA-256-Digest: orpMU0LSv8VuKxyKtaXGHxPEqpa0ust3bJAvjyj4vtw=
+
+Name: org/eclipse/bpmn2/impl/LinkEventDefinitionImpl.class
+SHA-256-Digest: u6HHnQsBllMqYpnOO7lDgiJIO/RG2B9F07HtSSS6ZDw=
+
+Name: org/eclipse/bpmn2/Expression.class
+SHA-256-Digest: kQKzweKkZOGaRVt4Ekkf4bt7S6zt1ZvC4KW/R30dG4A=
+
+Name: org/eclipse/dd/dc/util/DcXMLProcessor.class
+SHA-256-Digest: wqCSPqJuZgCtAL+g6mub8EYuoA4vwUcTZxp3pHEh1M0=
+
+Name: org/eclipse/bpmn2/util/Bpmn2XMIResourceFactoryImpl.class
+SHA-256-Digest: 7qS19szHmicW00xTKxChA4+mNFyReTvqWJ7kGB5ebrE=
+
+Name: org/eclipse/bpmn2/ConversationLink.class
+SHA-256-Digest: Sl49JpIZD7pA0e4kVUEj8PkBKAWwColKEdMaPdi1Y+U=
+
+Name: org/eclipse/bpmn2/impl/HumanPerformerImpl.class
+SHA-256-Digest: hNSfjwcKzakqLQ6X/roI4olJYwv1UF5LpZWA0shsp1w=
+
+Name: org/eclipse/bpmn2/TextAnnotation.class
+SHA-256-Digest: bXIvMbxOihOMn0qNk1uYnESOEj0DRebfVaLAnhwu0p4=
+
+Name: org/eclipse/bpmn2/StandardLoopCharacteristics.class
+SHA-256-Digest: w/SSAvGR9Da1b/cMymiiaF3nKTqof7z5d7Kq+l/OPHE=
+
+Name: org/eclipse/bpmn2/impl/DocumentationImpl.class
+SHA-256-Digest: gSO17GyEIxwDSrii20euVFuVkMzNfDVXtuU6M5RB1Ak=
+
+Name: org/eclipse/bpmn2/impl/CorrelationPropertyImpl.class
+SHA-256-Digest: hzPoE/cbI5DGH0Z5+wNEr0aNiWvlUhi4Kfpoa7PHgjY=
+
+Name: org/eclipse/bpmn2/DataStore.class
+SHA-256-Digest: RcKqeN+C4hsJW0SGKjJ3mUon6pJxjIDX9yQ0Fmw3yJQ=
+
+Name: org/eclipse/bpmn2/CorrelationKey.class
+SHA-256-Digest: aEhFqh3uuXURL/DUZiKno9+fRusoGjxp5pgzlg7m8Xw=
+
+Name: org/eclipse/dd/di/impl/LabelImpl.class
+SHA-256-Digest: h3KvIVKlf/qfifDOZxFIdqXNwpLUu+adzJW72Sjvxu0=
+
+Name: org/eclipse/bpmn2/impl/OperationImpl.class
+SHA-256-Digest: WHUiUvOq1nMV2qzwP3ZDqvT3sliUbAF8Q/LxiaeQsO0=
+
+Name: org/eclipse/bpmn2/impl/DataOutputImpl.class
+SHA-256-Digest: lY0fHM4a7ZfPoxOxj790GQWsQ/nlJLXrhfg18C7VQ9Y=
+
+Name: org/eclipse/bpmn2/di/impl/BPMNLabelImpl.class
+SHA-256-Digest: JF/WlMpeajAgQc8fUdIJm2E7cGKPek2ji8LKrE9KRDg=
+
+Name: org/eclipse/bpmn2/InputOutputSpecification.class
+SHA-256-Digest: GOwfN1+VfIVve9Mxf4gS6AzEcYmgfS19GzYYIO/doDc=
+
+Name: org/eclipse/bpmn2/impl/InputOutputSpecificationImpl.class
+SHA-256-Digest: a49yVhvIxqswZUHTSa9nAM9A0Q6p1NS8G2L2n9EDTX4=
+
+Name: org/eclipse/bpmn2/impl/MultiInstanceLoopCharacteristicsImpl.clas
+ s
+SHA-256-Digest: VBd3bXjzS+J4b5Opc75l/Fjsr2oFyCWckeoLay3SdKM=
+
+Name: org/eclipse/bpmn2/GlobalBusinessRuleTask.class
+SHA-256-Digest: BZ2FYXk3yHM9C+ZEUQYdkQ8zLGyJT3dcdz0IE5SV3iw=
+
+Name: org/eclipse/bpmn2/ExtensionDefinition.class
+SHA-256-Digest: +dxNjr90+QG7Z9G1axdY6dIh1JxordHj9K4rpjk95Sw=
+
+Name: org/eclipse/bpmn2/util/NamespaceHelper.class
+SHA-256-Digest: VLhD/V2gEE4LuWygjZT+ZcvoQUhTVMPFoJtSLB+2q3M=
+
+Name: org/eclipse/bpmn2/impl/ExpressionImpl.class
+SHA-256-Digest: sl17bErtfHBMfbYkl+fTVQgq1Aff9ijNbi2eqlug48g=
+
+Name: org/eclipse/bpmn2/impl/ParticipantMultiplicityImpl.class
+SHA-256-Digest: tKIe3wYvk6ClKjk6b6jfa8v0WmTEDil/LrXQKNJt9hQ=
+
+Name: org/eclipse/bpmn2/impl/CatchEventImpl.class
+SHA-256-Digest: 8mXLLNwyiQ/8vyIAQAKof2wvIT25P50Tg80wLePzRyQ=
+
+Name: org/eclipse/bpmn2/di/impl/BPMNDiagramImpl.class
+SHA-256-Digest: tcB2IHZl72ET1CfbJ+KaTwMLdhnMjDZj12MU5d1NrQM=
+
+Name: org/eclipse/bpmn2/LinkEventDefinition.class
+SHA-256-Digest: jEvMlP3QF+QiV6A11G/b6qn42ZLWXFsnC5wrredE3V8=
+
+Name: org/eclipse/bpmn2/impl/CallableElementImpl.class
+SHA-256-Digest: DQfAZvEAYj2LsfiIeEiX4KYH6nltVvYTvya2qg2WavM=
+
+Name: org/eclipse/bpmn2/impl/ResourceImpl.class
+SHA-256-Digest: i0nioBIPrPoQwki518J2XBYA9HemL9gIxOo/F7TMbo8=
+
+Name: org/eclipse/bpmn2/di/util/BpmnDiAdapterFactory.class
+SHA-256-Digest: 6Z5QfGWg3dBrMx4x9Mt+9XaUBxXEy1yWorWboTCortQ=
+
+Name: org/eclipse/bpmn2/util/Bpmn2OppositeReferenceAdapter.class
+SHA-256-Digest: 4q0J54idEbpES02oexCcmSMK5g4RXOP7O4XOlomZ7c0=
+
+Name: org/eclipse/bpmn2/util/Bpmn2ResourceFactoryImpl.class
+SHA-256-Digest: 1xmuWuqV1Xc664rm+iPPmkKrAtriQWdYyF2cRDVQlcQ=
+
+Name: org/eclipse/bpmn2/ChoreographyTask.class
+SHA-256-Digest: u+rYmy2aKxZ/VN5Aevm3egjoYgyrQCvys2sswLz0DAg=
+
+Name: org/eclipse/bpmn2/impl/ActivityImpl.class
+SHA-256-Digest: TpuxZLKpxw0icXlqX+6cCpzzADP+UZDngwhpCeXu6qY=
+
+Name: org/eclipse/bpmn2/impl/DataInputImpl.class
+SHA-256-Digest: JGCuHiJkiAY4dAU+ZsfS1lGZZ0xUgGKp3VWdB085Yig=
+
+Name: org/eclipse/bpmn2/impl/ParticipantImpl.class
+SHA-256-Digest: 1P+rH9zKubRwYRO4BIGh7A+pQYQheGzdBPObKEvKZQA=
+
+Name: org/eclipse/bpmn2/Bpmn2Package.class
+SHA-256-Digest: JQ6ZsA/ekOoVm73by6FqUrVHvr5Ne51H2PnGXQd1jpI=
+
+Name: org/eclipse/bpmn2/CallChoreography.class
+SHA-256-Digest: eqILbKtQW4PhMnGUwgPb7wJZ0hh3BC2Zko6kOf59Aw0=
+
+Name: org/eclipse/bpmn2/CallActivity.class
+SHA-256-Digest: 2C5qL4OALjQ6sPPHPM85zWbK6LOiFwkm+9R6HzSOasM=
+
+Name: org/eclipse/bpmn2/impl/ComplexBehaviorDefinitionImpl.class
+SHA-256-Digest: w5Xr0lLbo/WAxuo+xgN+SPdHQNXGRK2thhypo/t/JwU=
+
+Name: org/eclipse/bpmn2/di/BPMNShape.class
+SHA-256-Digest: LzWIWg68P661vmxbt2vrEEssrTwyr7i3Amn2IQGz3pg=
+
+Name: org/eclipse/bpmn2/DataState.class
+SHA-256-Digest: 6Fqg5bvb4lb5MqAOymTb2IimUWjB6p+j7CvTqmRY+4k=
+
+Name: org/eclipse/bpmn2/Auditing.class
+SHA-256-Digest: 89dokDCZiyt5ZtI9cONthxPY9rfytgb9trOwOWNbUyw=
+
+Name: org/eclipse/dd/di/impl/DiagramElementImpl.class
+SHA-256-Digest: gwxUYqvcpzCi5BmbT01hSqFkfntMycm2TTEGgFNgke4=
+
+Name: org/eclipse/dd/dc/util/DcAdapterFactory$1.class
+SHA-256-Digest: OgIvlaqg93Ng4BIzTQ8csR0V1P9p4hWKswiR5tTHBSw=
+
+Name: org/eclipse/bpmn2/impl/EventBasedGatewayImpl.class
+SHA-256-Digest: ssO2e2/73wYMgWGfRwj8bJ2BTnTXac34gOz4LR1XqBk=
+
+Name: org/eclipse/bpmn2/impl/IntermediateThrowEventImpl.class
+SHA-256-Digest: Ux36oh0vEoPJLpRet7/rZMw6dJ0FFfQzCMT7DpsiwE4=
+
+Name: org/eclipse/bpmn2/impl/MessageFlowAssociationImpl.class
+SHA-256-Digest: j85VlmG3Ool9k4wnSDvB4wwEkenNTy65vCJ47gXLSxo=
+
+Name: org/eclipse/bpmn2/di/BPMNLabelStyle.class
+SHA-256-Digest: eIMcR8kIJrViU2UnJ0KC0pQXPf7C5X/N0XVJ+/cnTXQ=
+
+Name: org/eclipse/bpmn2/CategoryValue.class
+SHA-256-Digest: 5gAXPAuxGkUQ62TrsSch3e2UlzE2hL4uS6LNVEncka4=
+
+Name: org/eclipse/bpmn2/impl/SignalEventDefinitionImpl.class
+SHA-256-Digest: t5ecNIg/CvQV5Rr6xU1BelfvAMBB1w5PJQvtoZYnZBo=
+
+Name: org/eclipse/bpmn2/di/impl/BPMNLabelStyleImpl.class
+SHA-256-Digest: wyIiTzTK1j4UKtotYmO2e1sJkTcFmNTj+7jGE9WV5VI=
+
+Name: org/eclipse/bpmn2/impl/ResourceAssignmentExpressionImpl.class
+SHA-256-Digest: lVjAkbwMRAMjmkw5ALsHGVvbf1FgD0B+A3FyAbUl1HY=
+
+Name: org/eclipse/bpmn2/ItemKind.class
+SHA-256-Digest: EQLMR13fhejgy1oX2JeuspuPD5R5HtUUlyiNIpJ54Zk=
+
+Name: org/eclipse/bpmn2/impl/TransactionImpl.class
+SHA-256-Digest: Chjf7IWGJla6cEd5G8RCD/w2b52s5kJNXy3+sF9mu0Y=
+
+Name: org/eclipse/bpmn2/EventBasedGateway.class
+SHA-256-Digest: GC840hZ7XATnZHr8MsgV+sTXSKzQiEoemF/+/AsTi5w=
+
+Name: org/eclipse/bpmn2/impl/ExtensionDefinitionImpl.class
+SHA-256-Digest: GduIudAN0Hq/DAAS4KIjtHmASoEZK5B825I/hR0hKr4=
+
+Name: org/eclipse/bpmn2/IntermediateCatchEvent.class
+SHA-256-Digest: TdkMbz0Bw4qIaDg+9J4FF3EJ5UW+CRXGy5ejhBd74xM=
+
+Name: org/eclipse/bpmn2/Activity.class
+SHA-256-Digest: uSJ1tTlr0VkQ9gJmcWG8fWl1WQpbLck8Wxfml93PBng=
+
+Name: org/eclipse/bpmn2/di/util/BpmnDiResourceFactoryImpl.class
+SHA-256-Digest: 68uApprJz1bck8eFOg4DWiniF7IbY9aQdADShnTJd5o=
+
+Name: org/eclipse/bpmn2/util/Bpmn2ResourceImpl$BpmnXmlHelper.class
+SHA-256-Digest: MUkhXpuksqfEcN2i8d22T/+jPOfpHqPLElHNy76bAJI=
+
+Name: org/eclipse/bpmn2/di/ParticipantBandKind.class
+SHA-256-Digest: 3702qrKBtxScfO2fUQMjLz7DzOAX6cRTRnqw7w/LkNI=
+
+Name: plugin.properties
+SHA-256-Digest: 8E0NPAxANRARjjfQR7+QqZdDxFEOS81ygqBxmBEbnn4=
+
+Name: org/eclipse/bpmn2/impl/ArtifactImpl.class
+SHA-256-Digest: aQoPZ+nhiYAVIVJI0U4jd2WiWqjvbxNTA7jOZDp5Ths=
+
+Name: org/eclipse/bpmn2/GlobalScriptTask.class
+SHA-256-Digest: Y5qlkoP8BpGtyOWQaXoWSjxmngp8PKy+YxCZIe0/8YA=
+
+Name: org/eclipse/dd/di/impl/DiFactoryImpl.class
+SHA-256-Digest: n9N9xEVRahZelK+jQl3FlmOoY0049rxk0NPR6W+GA90=
+
+Name: org/eclipse/bpmn2/ErrorEventDefinition.class
+SHA-256-Digest: d0fX36iIPsbToXxO4lIAJoYQTAGP6gEEBsuTZykprJE=
+
+Name: org/eclipse/bpmn2/SendTask.class
+SHA-256-Digest: Sp3+rWlJ2xreh2qr8+JX5G4RUG7+Z2sxOW+iRsyqyzU=
+
+Name: org/eclipse/bpmn2/DataInput.class
+SHA-256-Digest: 3Woy5Wjhm232a7qJ+lKZbBLCib04DwwydgQmS9XQVzI=
+
+Name: org/eclipse/bpmn2/DataAssociation.class
+SHA-256-Digest: fRYZq0cF2gBCbQc973b2mOQw3UwBlzRhV/NFrVfBnts=
+
+Name: org/eclipse/bpmn2/impl/UserTaskImpl.class
+SHA-256-Digest: Q147z4IlHw0JSFKkm7LSL2B66agVXBQZCqk0fqJRdIM=
+
+Name: org/eclipse/bpmn2/ServiceTask.class
+SHA-256-Digest: 91WP3RzZU+t7EIw/JIJq5z9gHfWH2rG8KlRr4vCpKWw=
+
+Name: org/eclipse/bpmn2/di/util/BpmnDiAdapterFactory$1.class
+SHA-256-Digest: +Gb/F7LEi95sLWpxaDucYAuCpga2NFu7TenNsQ82t28=
+
+Name: org/eclipse/bpmn2/InputSet.class
+SHA-256-Digest: WB/z7oT6rqu/6FUOUmcCbEcl7qxcrgSn4W3FuT2XEpg=
+
+Name: org/eclipse/bpmn2/Bpmn2Package$Literals.class
+SHA-256-Digest: jq7UpLt0LybV6+6aWQKgcZNYf2CDdmHqps0OwGdQlEs=
+
+Name: org/eclipse/bpmn2/impl/MonitoringImpl.class
+SHA-256-Digest: 0PV55WFJcfo6bcRctT8lA53skYVqVOEUdoOkU+oApjk=
+
+Name: org/eclipse/bpmn2/impl/RenderingImpl.class
+SHA-256-Digest: SZm6jwBYoWbhXVNVeccCw6IjgvYqyyO89hA9ZhHTa/s=
+
+Name: org/eclipse/bpmn2/ExclusiveGateway.class
+SHA-256-Digest: GzR+C3Z+vUGXdICpk+RYtxkjSjW94+1IbtDnXd1BZYo=
+
+Name: org/eclipse/dd/di/impl/NodeImpl.class
+SHA-256-Digest: 2AqfYXJ6flbL5paS8agGMIGL3/lh3Sc3fcop5ki/aVs=
+
+Name: org/eclipse/bpmn2/CorrelationPropertyBinding.class
+SHA-256-Digest: cyBJxnY6cSX6CmLnn50t+n/3NvFAl2oUwkSB4ywWAUg=
+
+Name: org/eclipse/dd/dc/util/DcResourceImpl.class
+SHA-256-Digest: vb0RaT7RCNf2jeQ0LnuenTeJeB2Y8l36uOSZRfNNnK4=
+
+Name: org/eclipse/bpmn2/Category.class
+SHA-256-Digest: wWYW5OCXVyIdqeJ8L53NpLEopDjxCDEzBfZ45V+l9v0=
+
+Name: org/eclipse/bpmn2/ResourceParameter.class
+SHA-256-Digest: GlVmHox8Ap4+j+ORJEmWbCVmBJY/K1xtgCV4kOMz1vU=
+
+Name: org/eclipse/bpmn2/impl/CorrelationPropertyRetrievalExpressionImp
+ l.class
+SHA-256-Digest: 1wTEfVX4kOAMAUQ+/u5nvXhqbDbX/LOrj9DhDHgkY0Y=
+
+Name: org/eclipse/bpmn2/util/Bpmn2AdapterFactory$1.class
+SHA-256-Digest: gRolAA00LWx3fYj32ozKLvwg13VmMqbmgvNLWcGw91g=
+
+Name: org/eclipse/bpmn2/impl/AdHocSubProcessImpl.class
+SHA-256-Digest: dXID1vKLY0FZ11GooA4o6cujvTpbLvJ4QtllIYClGZY=
+
+Name: org/eclipse/bpmn2/BoundaryEvent.class
+SHA-256-Digest: fPyV+yvzonMY9A0r3RDqWeuGbsnMJXo3bFkXvSroSZ0=
+
+Name: org/eclipse/bpmn2/impl/DataObjectImpl.class
+SHA-256-Digest: SztXAUZWruV5ibf9CzSaQ4AapPAPF4bH/eAfBmfVoGE=
+
+Name: org/eclipse/bpmn2/impl/ImportImpl.class
+SHA-256-Digest: 2hW6dMzpN3OZgSsltI3L+JxoiRSVZyGewuqYR8RxaBM=
+
+Name: org/eclipse/bpmn2/ComplexBehaviorDefinition.class
+SHA-256-Digest: A22AdzKlOkHT2ftPv8Qp6K9L6U9A18D/7LverojW3KM=
+
+Name: org/eclipse/bpmn2/impl/CategoryImpl.class
+SHA-256-Digest: qZImaSFTpjonJp8wUbGjsoCQ7kdBvOwwFteUD7ZKMnk=
+
+Name: META-INF/maven/org.eclipse.bpmn2/org.eclipse.bpmn2/pom.xml
+SHA-256-Digest: 2dXLSdjlpSR8pkCvt+VuHjRwN/30F6/92/d6iz4w8Rc=
+
+Name: org/eclipse/bpmn2/impl/ScriptTaskImpl.class
+SHA-256-Digest: hw2p2i5oB4CPBTA4J7n8NydZE2oHwJluVzv3UK7BJfg=
+
+Name: about.html
+SHA-256-Digest: M0IOBormGDvMfe4ezoRSm2bUJDYysN/mjR8pBJqhJXk=
+
+Name: org/eclipse/bpmn2/impl/ThrowEventImpl.class
+SHA-256-Digest: kAH/MeZVJ46lq9K7dNrqnFu/dFn9Mfeoq8DfRZFuxZQ=
+
+Name: org/eclipse/bpmn2/Bpmn2Factory.class
+SHA-256-Digest: /1q+9mpriEb9hvzByBmyKiGujjeWmKwCdkS7ZEyu00s=
+
+Name: org/eclipse/bpmn2/StartEvent.class
+SHA-256-Digest: 5WidIRMY/LU02uAFbtepZsD2J6hPgZZGm3Qckr9TpB8=
+
+Name: org/eclipse/bpmn2/TerminateEventDefinition.class
+SHA-256-Digest: rVS1RIN/xQjO3D3ypDBXN/4tMPyUOpN/15xiwjKLE64=
+
+Name: org/eclipse/bpmn2/MessageEventDefinition.class
+SHA-256-Digest: Xwxxcik96S0cxZD5Ko9cgCcnnap0B0yMcQWXVc3a0Ag=
+
+Name: org/eclipse/bpmn2/CancelEventDefinition.class
+SHA-256-Digest: vFeDAsoQJsVNHPe0P9VChmTKKPb2B8JymaTjPN5Dz/I=
+
+Name: org/eclipse/bpmn2/CompensateEventDefinition.class
+SHA-256-Digest: E+opBPNS7E+tSXWL6r4/0OhN8jntAOhvxsjd19aoL0A=
+
+Name: org/eclipse/bpmn2/CallableElement.class
+SHA-256-Digest: HSsRswfMilzufw8cApZ9l8+RdNzpL8ebaUxcXcyLDVo=
+
+Name: org/eclipse/bpmn2/ExtensionAttributeValue.class
+SHA-256-Digest: bwK3U5N868hpKRBYl/hJHaaZ90f1OU2bszfHt0aT3ZY=
+
+Name: org/eclipse/bpmn2/impl/ReceiveTaskImpl.class
+SHA-256-Digest: 2VzcAXbhbGz7j28W9XtU+uSkLPdIr4wVU0kNkAzReaM=
+
+Name: org/eclipse/dd/di/Plane.class
+SHA-256-Digest: fDaZrxypg3d9EUi07DfQ7sXXd57sN3z3Ykk4/2Ud8r8=
+
+Name: org/eclipse/bpmn2/impl/GlobalManualTaskImpl.class
+SHA-256-Digest: wgMB5LbdLeJJZS262psdle6AwGTsMGH1EBDpjccIp84=
+
